@@ -1,0 +1,32 @@
+# Visual Studio / .NET
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs, caches, db
+*.log
+*.cache
+*.dbmdl
+*.sdf
+
+# macOS
+.DS_Store
